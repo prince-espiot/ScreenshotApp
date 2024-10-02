@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenshotApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d754e9684ac3e3cf4f73f49930b1f477229a81f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+390d2971b4c7daf7897701f1cb0484bfa5390098")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenshotApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenshotApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

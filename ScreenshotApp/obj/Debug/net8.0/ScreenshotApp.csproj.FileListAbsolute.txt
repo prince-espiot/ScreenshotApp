@@ -1,3 +1,9 @@
+F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.csproj.AssemblyReference.cache
+F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.AssemblyInfoInputs.cache
+F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.AssemblyInfo.cs
+F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.csproj.CoreCompileInputs.cache
+F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.sourcelink.json
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\bin\Debug\net8.0\ScreenshotApp.exe
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\bin\Debug\net8.0\ScreenshotApp.deps.json
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\bin\Debug\net8.0\ScreenshotApp.runtimeconfig.json
@@ -20,12 +26,6 @@ F:\Wpftutorials\ScreenshotApp\ScreenshotApp\bin\Debug\net8.0\System.Drawing.Comm
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\bin\Debug\net8.0\de\PdfSharp.resources.dll
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
-F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.csproj.AssemblyReference.cache
-F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.GeneratedMSBuildEditorConfig.editorconfig
-F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.AssemblyInfoInputs.cache
-F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.AssemblyInfo.cs
-F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.csproj.CoreCompileInputs.cache
-F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.sourcelink.json
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\Screensh.A60229ED.Up2Date
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\ScreenshotApp.dll
 F:\Wpftutorials\ScreenshotApp\ScreenshotApp\obj\Debug\net8.0\refint\ScreenshotApp.dll
